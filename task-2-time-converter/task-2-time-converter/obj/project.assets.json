@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\coding-task\\task-2-time-converter\\task-2-time-converter\\task-2-time-converter.csproj",
+      "projectUniqueName": "C:\\coding-tasks\\task-2-time-converter\\task-2-time-converter\\task-2-time-converter.csproj",
       "projectName": "task-2-time-converter",
-      "projectPath": "C:\\coding-task\\task-2-time-converter\\task-2-time-converter\\task-2-time-converter.csproj",
+      "projectPath": "C:\\coding-tasks\\task-2-time-converter\\task-2-time-converter\\task-2-time-converter.csproj",
       "packagesPath": "C:\\Users\\79108\\.nuget\\packages\\",
-      "outputPath": "C:\\coding-task\\task-2-time-converter\\task-2-time-converter\\obj\\",
+      "outputPath": "C:\\coding-tasks\\task-2-time-converter\\task-2-time-converter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79108\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

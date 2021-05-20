@@ -11,3 +11,16 @@ C:\coding-task\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-
 C:\coding-task\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.dll
 C:\coding-task\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.pdb
 C:\coding-task\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.genruntimeconfig.cache
+C:\coding-tasks\task-1-calculator\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.exe
+C:\coding-tasks\task-1-calculator\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.deps.json
+C:\coding-tasks\task-1-calculator\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.runtimeconfig.json
+C:\coding-tasks\task-1-calculator\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.runtimeconfig.dev.json
+C:\coding-tasks\task-1-calculator\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.dll
+C:\coding-tasks\task-1-calculator\task-1-calculator\bin\Debug\netcoreapp3.1\task-1-calculator.pdb
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.csprojAssemblyReference.cache
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.AssemblyInfoInputs.cache
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.AssemblyInfo.cs
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.csproj.CoreCompileInputs.cache
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.dll
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.pdb
+C:\coding-tasks\task-1-calculator\task-1-calculator\obj\Debug\netcoreapp3.1\task-1-calculator.genruntimeconfig.cache
