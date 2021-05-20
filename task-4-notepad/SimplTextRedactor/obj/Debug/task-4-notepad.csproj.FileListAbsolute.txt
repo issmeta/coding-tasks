@@ -1,0 +1,15 @@
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\bin\Debug\task-4-notepad.exe.config
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\bin\Debug\task-4-notepad.exe
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\bin\Debug\task-4-notepad.pdb
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad.csprojAssemblyReference.cache
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\MainWindow.g.cs
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\App.g.cs
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad_MarkupCompile.cache
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad_MarkupCompile.lref
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\MainWindow.baml
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad.g.resources
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task_4_notepad.Properties.Resources.resources
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad.csproj.GenerateResource.cache
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad.csproj.CoreCompileInputs.cache
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad.exe
+C:\Users\79108\Desktop\task_4_notepad\SimplTextRedactor\obj\Debug\task-4-notepad.pdb

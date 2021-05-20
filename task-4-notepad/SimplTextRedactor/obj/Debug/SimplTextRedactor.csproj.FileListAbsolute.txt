@@ -1,0 +1,15 @@
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\bin\Debug\SimplTextRedactor.exe.config
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\bin\Debug\SimplTextRedactor.exe
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\bin\Debug\SimplTextRedactor.pdb
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.csprojAssemblyReference.cache
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\MainWindow.g.cs
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\App.g.cs
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor_MarkupCompile.cache
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor_MarkupCompile.lref
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\MainWindow.baml
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.g.resources
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.Properties.Resources.resources
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.csproj.GenerateResource.cache
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.csproj.CoreCompileInputs.cache
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.exe
+C:\Users\skorion\Desktop\SimplTextRedactor\SimplTextRedactor\obj\Debug\SimplTextRedactor.pdb
