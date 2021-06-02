@@ -4,80 +4,66 @@ namespace task_1_calculator
 {
     class Program
     {
+        static double Add(double x, double y)
+        {
+            return x + y;
+        }
+
+        static double Subtract(double x, double y)
+        {
+            return x - y;
+        }
+
+        static double Multiply(double x, double y)
+        {
+            return x * y;
+        }
+
+        static double Divide(double x, double y)
+        {
+            if (y == 0)
+                throw new Exception("Деление на ноль");
+            return x / y;
+        }
+
+        static double Power(double x, double power)
+        {
+            return Math.Pow(x, power);
+        }
+
+        static double Calculate(double x, string operation, double y)
+        {
+            switch (operation)
+            {
+                case "+":
+                    return Add(x, y);
+                case "-":
+                    return Subtract(x, y);
+                case "*":
+                    return Multiply(x, y);
+                case "/":
+                    return Divide(x, y);
+                case "^":
+                    return Power(x, y);
+                default:
+                    throw new Exception("Недопустимая операция");
+            }
+        }
+
         static void Main(string[] args)
         {
             while (true)
             {
-                double firstValue, secondValue;
-                string action;
+                Console.WriteLine("Введите число, операцию и второе число через Enter.");
 
-                Console.WriteLine("Выберите операцию:");
-                Console.WriteLine("1.Сложение.");
-                Console.WriteLine("2.Вычитание.");
-                Console.WriteLine("3.Умножение.");
-                Console.WriteLine("4.Деление.");
-                Console.WriteLine("5.Возведение в квадрат.");
-                action = Console.ReadLine();
-
-                if (action == "1")
+                try
                 {
-                    Console.WriteLine("Введите первое число.");
-                    firstValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Введите второе число.");
-                    secondValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Ответ:");
-                    Console.WriteLine(firstValue + secondValue);
+                    Console.WriteLine("Ответ: " +
+                        Calculate(double.Parse(Console.ReadLine()), Console.ReadLine(), double.Parse(Console.ReadLine())));
                 }
-                else if (action == "2")
+                catch (Exception e)
                 {
-                    Console.WriteLine("Введите первое число.");
-                    firstValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Введите второе число.");
-                    secondValue = double.Parse(Console.ReadLine());
-                     
-                    Console.WriteLine("Ответ:");
-                    Console.WriteLine(firstValue - secondValue);
-                }
-                else if (action == "3")
-                {
-                    Console.WriteLine("Введите первое число.");
-                    firstValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Введите второе число.");
-                    secondValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Ответ:" + firstValue * secondValue);
-                }
-                else if (action == "4")
-                {
-                    Console.WriteLine("Введите первое число.");
-                    firstValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Введите второе число.");
-                    secondValue = double.Parse(Console.ReadLine());
-
-                    if (secondValue == 0)
-                    {
-                        Console.WriteLine("На 0 делить нельзя! Введите другое число.");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Ответ:" + firstValue / secondValue);
-                    }
-                }
-                else if (action == "5")
-                {
-                    Console.WriteLine("Введите число.");
-                    firstValue = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Ответ:" + firstValue * firstValue);
-                }
-                else
-                {
-                    Console.WriteLine("Ошибка! Неизвестное действие!");
+                    Console.WriteLine(e.Message);
                 }
             }
         }
