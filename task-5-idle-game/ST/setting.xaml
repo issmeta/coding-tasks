@@ -1,0 +1,22 @@
+﻿<Window x:Class="task_5_idle_game.setting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task_5_idle_game"
+        mc:Ignorable="d"
+        Title="setting" Height="250" Width="196" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="but1" Content="Segoe UI" HorizontalAlignment="Left" Margin="25,45,0,0" VerticalAlignment="Top" Width="140" Height="22" Grid.ColumnSpan="2" Click="Button_Click" IsCancel="True"/>
+        <Button x:Name="but2" Content="Times New Roman" HorizontalAlignment="Left" Margin="25,100,0,0" VerticalAlignment="Top" Width="140" Height="22" Grid.ColumnSpan="2" Click="Button_Click_1" FontFamily="Times New Roman" IsCancel="True"/>
+        <Button x:Name="but3" Content="Roboto" HorizontalAlignment="Left" Margin="25,153,0,0" VerticalAlignment="Top" Width="140" Height="22" Grid.ColumnSpan="2" Click="Button_Click_2" FontFamily="Roboto" IsCancel="True"/>
+
+    </Grid>
+</Window>

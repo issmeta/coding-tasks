@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79108\\Desktop\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj": {}
+    "C:\\coding-tasks\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79108\\Desktop\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj": {
+    "C:\\coding-tasks\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79108\\Desktop\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj",
+        "projectUniqueName": "C:\\coding-tasks\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj",
         "projectName": "task-1-calculator",
-        "projectPath": "C:\\Users\\79108\\Desktop\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj",
+        "projectPath": "C:\\coding-tasks\\task-1-calculator\\task-1-calculator\\task-1-calculator.csproj",
         "packagesPath": "C:\\Users\\79108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79108\\Desktop\\task-1-calculator\\task-1-calculator\\obj\\",
+        "outputPath": "C:\\coding-tasks\\task-1-calculator\\task-1-calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79108\\AppData\\Roaming\\NuGet\\NuGet.Config",

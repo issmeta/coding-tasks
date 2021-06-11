@@ -1,0 +1,16 @@
+C:\Users\79108\Desktop\ST\ST\bin\Debug\task-5-idle-game.exe.config
+C:\Users\79108\Desktop\ST\ST\bin\Debug\task-5-idle-game.exe
+C:\Users\79108\Desktop\ST\ST\bin\Debug\task-5-idle-game.pdb
+C:\Users\79108\Desktop\ST\ST\obj\Debug\MainWindow.g.cs
+C:\Users\79108\Desktop\ST\ST\obj\Debug\setting.g.cs
+C:\Users\79108\Desktop\ST\ST\obj\Debug\App.g.cs
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game_MarkupCompile.cache
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game_MarkupCompile.lref
+C:\Users\79108\Desktop\ST\ST\obj\Debug\MainWindow.baml
+C:\Users\79108\Desktop\ST\ST\obj\Debug\setting.baml
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game.g.resources
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task_5_idle_game.Properties.Resources.resources
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game.csproj.GenerateResource.cache
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game.csproj.CoreCompileInputs.cache
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game.exe
+C:\Users\79108\Desktop\ST\ST\obj\Debug\task-5-idle-game.pdb
