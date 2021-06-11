@@ -32,16 +32,13 @@ namespace task_6_geometry
                 
                 try
                 {
-                    //создаем новый объект класса круг
                     Circle myCircle = new Circle();
 
-                    //вызываем метод этого объекта
-                    //устанавливаем радиус для круга
+                    
                     myCircle.SetRadius(Double.Parse(TextRadius.Text));
 
-                    //создаем новый блок с текстом, который отправится в StackPanel для кругов
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Площадь: " + myCircle.Area(); //здесь получаем площадь созданного объекта круга
+                    myTextBlock.Text = "Площадь: " + myCircle.Area(); 
                     StackCircles.Children.Add(myTextBlock);
                 }
                 catch (Exception ex)
@@ -54,7 +51,6 @@ namespace task_6_geometry
                 Cylinder cylinder = new Cylinder();
 
                 bool success = true;
-                //отдельно провеярем корректность радиуса
                 try
                 {
                     cylinder.SetRadius(double.Parse(TextRadius.Text));
@@ -64,7 +60,6 @@ namespace task_6_geometry
                     success = false;
                     LabelRadius.Foreground = Brushes.Red;
                 }
-                //и высоты
                 try
                 {
                     cylinder.SetHeight(double.Parse(TextHeight.Text));
@@ -77,7 +72,7 @@ namespace task_6_geometry
                 if (success)
                 {
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Объем: " + cylinder.Volume(); //здесь получаем площадь созданного объекта круга
+                    myTextBlock.Text = "Объем: " + cylinder.Volume(); 
                     StackCylinders.Children.Add(myTextBlock);
                 }
             }
@@ -85,16 +80,12 @@ namespace task_6_geometry
             {
                 try
                 {
-                    //создаем новый объект класса круг
                     Sphere sphere = new Sphere();
 
-                    //вызываем метод этого объекта
-                    //устанавливаем радиус для круга
                     sphere.SetRadius(double.Parse(TextRadius.Text));
 
-                    //создаем новый блок с текстом, который отправится в StackPanel для кругов
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Объем: " + sphere.Volume(); //здесь получаем площадь созданного объекта круга
+                    myTextBlock.Text = "Объем: " + sphere.Volume(); 
                     StackSpheres.Children.Add(myTextBlock);
                 }
                 catch
