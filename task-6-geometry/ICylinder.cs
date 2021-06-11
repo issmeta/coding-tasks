@@ -6,7 +6,6 @@ namespace task_6_geometry
 {
     interface ICylinder
     {
-        //нужно сделать класс на основе этого интерфейса
 
         public void SetRadius(double radius);
 

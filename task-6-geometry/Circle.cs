@@ -6,8 +6,6 @@ namespace task_6_geometry
 {
     class Circle : ICircle
     {
-        //свойство класса, куда будет сохраняться радиус
-        //его не видно извне, работает только внутри класса
         private double _radius;
 
         public double Area()
