@@ -17,9 +17,9 @@ namespace Calculator
 
     public partial class MainWindow : Window
     {
-        static string defaultString = "0.0"; //Появляется по умолчанию в текстбоксе
-        string numberOneBuffer;              //Первое значение
-        string numberTwoBuffer;              //Второе значение
+        static string defaultString = "0.0"; 
+        string numberOneBuffer;              
+        string numberTwoBuffer;              
         Calc c;
         public MainWindow()
         {
@@ -31,7 +31,6 @@ namespace Calculator
             numberTwoBuffer = "";
         }
 
-        //Методы вводы цифр
         private void one_Click(object sender, RoutedEventArgs e)
         {
             numberOneBuffer += "1";
@@ -97,7 +96,6 @@ namespace Calculator
             numberOneBuffer += ".";
         }
 
-        //Получение ответа
         private void enter_Click(object sender, RoutedEventArgs e)
         {
             string answer = "";
@@ -116,7 +114,6 @@ namespace Calculator
             numberTwoBuffer = "";
         }
 
-        //Обновление списка историй операций
         private void updateList(string answer)
         {
             string s = numberTwoBuffer;
@@ -144,7 +141,6 @@ namespace Calculator
             listBox1.Items.Add(s);
         }
 
-        //Кнопка определения знака числа
         private void sign_Click(object sender, RoutedEventArgs e)
         {
             if (numberOneBuffer.Length > 0)
@@ -165,14 +161,12 @@ namespace Calculator
             textBox1.Text = Convert.ToString(numberOneBuffer);
         }
 
-        //Сброс данной операции
         private void clearentry_Click(object sender, RoutedEventArgs e)
         {
             numberOneBuffer = "";
             textBox1.Text = defaultString;
         }
 
-        //Сброс всех операций
         private void clear_Click(object sender, RoutedEventArgs e)
         {
             numberOneBuffer = "";
@@ -180,7 +174,6 @@ namespace Calculator
             textBox1.Text = defaultString;
         }
 
-        //Сложение 
         private void add_Click(object sender, RoutedEventArgs e)
         {
             if ((numberOneBuffer.Length > 0) && (numberTwoBuffer.Length > 0))
@@ -198,7 +191,6 @@ namespace Calculator
 
         }
 
-        //Вычетание 
         private void minus_Click(object sender, RoutedEventArgs e)
         {
             if ((numberOneBuffer.Length > 0) && (numberTwoBuffer.Length > 0))
@@ -210,7 +202,6 @@ namespace Calculator
             numberOneBuffer = string.Empty;
         }
 
-        //Умножение 
         private void multiple_Click(object sender, RoutedEventArgs e)
         {
             if ((numberOneBuffer.Length > 0) && (numberTwoBuffer.Length > 0))
@@ -222,7 +213,6 @@ namespace Calculator
             numberOneBuffer = string.Empty;
         }
 
-        //Деление
         private void divide_Click(object sender, RoutedEventArgs e)
         {
             if ((numberOneBuffer.Length > 0) && (numberTwoBuffer.Length > 0))
@@ -234,7 +224,6 @@ namespace Calculator
             numberOneBuffer = string.Empty;
         }
 
-        //Проверка на дробное значение
         private string checkDecimal(string s)
         {
             if (s[s.Length - 1] == '.')

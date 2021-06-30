@@ -7,7 +7,7 @@ namespace Calculator
 {
     class Calc
     {
-        public enum Operators                            //Перечисление операций  
+        public enum Operators                              
         {
             None,
             Addition,
@@ -22,17 +22,17 @@ namespace Calculator
 
         public Calc()
         {
-            answer = 0.0;                               //Ответ
-            op = Operators.None;                        //Выбранная операции
+            answer = 0.0;                               
+            op = Operators.None;                        
             firstOperation = true;
         }
 
         public Boolean isFirstOperation()
         {
-            return firstOperation;                      //Проверка на повторное использование операций
+            return firstOperation;                      
         }
 
-        public String operate(double a, double b)       //Объект операции
+        public String operate(double a, double b)       
         {
             firstOperation = false;
 
@@ -67,42 +67,38 @@ namespace Calculator
             return operate(answer, a);
         }
 
-        public void setOperation(Operators op)      //Присвоение свойству op операции
+        public void setOperation(Operators op)      
         {
             this.op = op;
         }
 
-        public void reset()                         //Сброс  
+        public void reset()                          
         {
             firstOperation = true;
             op = Operators.None;
         }
 
-        //Сложение
+        
         static public double addition(double a, double b)
         {
             return (a + b);
         }
 
-        //Вычитание
         static public double subtraction(double a, double b)
         {
             return (a - b);
         }
 
-        //Умножение
         static public double multiplication(double a, double b)
         {
             return (a * b);
         }
 
-        //Деление
         static public double division(double a, double b)
         {
             return (a / b);
         }
 
-        //Геттер операции
         public Operators getOperation()
         {
             return op;
