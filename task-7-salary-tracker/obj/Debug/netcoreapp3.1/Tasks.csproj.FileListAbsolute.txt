@@ -1,0 +1,56 @@
+C:\Users\max-2\Desktop\task-6-circles\bin\Debug\netcoreapp3.1\Tasks.exe
+C:\Users\max-2\Desktop\task-6-circles\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\Users\max-2\Desktop\task-6-circles\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.json
+C:\Users\max-2\Desktop\task-6-circles\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.dev.json
+C:\Users\max-2\Desktop\task-6-circles\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\max-2\Desktop\task-6-circles\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks_MarkupCompile.cache
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks_MarkupCompile.lref
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.g.resources
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\max-2\Desktop\task-6-circles\obj\Debug\netcoreapp3.1\Tasks.genruntimeconfig.cache
+C:\Users\max-2\Desktop\task-6-circles — копия\bin\Debug\netcoreapp3.1\Tasks.exe
+C:\Users\max-2\Desktop\task-6-circles — копия\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\Users\max-2\Desktop\task-6-circles — копия\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.json
+C:\Users\max-2\Desktop\task-6-circles — копия\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.dev.json
+C:\Users\max-2\Desktop\task-6-circles — копия\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\max-2\Desktop\task-6-circles — копия\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.csprojAssemblyReference.cache
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks_MarkupCompile.cache
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks_MarkupCompile.lref
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.g.resources
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\max-2\Desktop\task-6-circles — копия\obj\Debug\netcoreapp3.1\Tasks.genruntimeconfig.cache
+C:\Users\max-2\Desktop\task-7-salary-tracker\bin\Debug\netcoreapp3.1\Tasks.exe
+C:\Users\max-2\Desktop\task-7-salary-tracker\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\Users\max-2\Desktop\task-7-salary-tracker\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.json
+C:\Users\max-2\Desktop\task-7-salary-tracker\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.dev.json
+C:\Users\max-2\Desktop\task-7-salary-tracker\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\max-2\Desktop\task-7-salary-tracker\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.csprojAssemblyReference.cache
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks_MarkupCompile.cache
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks_MarkupCompile.lref
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.g.resources
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\max-2\Desktop\task-7-salary-tracker\obj\Debug\netcoreapp3.1\Tasks.genruntimeconfig.cache

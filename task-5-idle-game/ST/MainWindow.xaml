@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:task_5_idle_game"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800" ResizeMode="NoResize">
+        Title="MainWindow" Height="600" Width="800">
     <Grid>
         <Image HorizontalAlignment="Left" Height="410" Margin="210,115,0,0" VerticalAlignment="Top" Width="415" Source="free-icon-double-click-4610193.png"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="670,10,0,0" VerticalAlignment="Top" Width="100" Source="settings.png"/>

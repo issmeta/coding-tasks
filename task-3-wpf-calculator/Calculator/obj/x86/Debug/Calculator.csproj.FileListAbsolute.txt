@@ -1,0 +1,12 @@
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\MainWindow.baml
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\App.g.cs
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator_MarkupCompile.cache
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator.g.resources
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\max-2\Desktop\task-3-wpf-calculator\Calculator\obj\x86\Debug\Calculator.pdb
