@@ -7,8 +7,6 @@ namespace Positions
     class OlderSeller : IPosition
     {
 
-        //свойство класса
-        //его не видно извне, работает только внутри класса
         private double _sal; 
         private double _bassel; 
         private double _profit;

@@ -7,10 +7,8 @@ namespace Positions
     class Seller : IPosition
     {
         
-        //свойство класса
-        //его не видно извне, работает только внутри класса
-        private double _sal; //дистанция
-        private double _bassel; //бак проедет столько км
+        private double _sal; 
+        private double _bassel; 
         private double _profit;
         public void SetProfit(double profit)
         {

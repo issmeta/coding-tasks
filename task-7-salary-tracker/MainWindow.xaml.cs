@@ -29,18 +29,14 @@ namespace Positions
         {
             
                 try
-                {
-                    //создаем новый объект класса  
+                {  
                     Seller mySeller = new Seller();
 
-                    //вызываем метод этого объекта
-                    //Читаем данные 
                     mySeller.SetProfit(double.Parse(FirstElementText.Text));
                     mySeller.SetBasicSalary(double.Parse(SecondElementText.Text));
 
-                    //создаем новый блок с текстом 
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Зарплата Продавца: " + Math.Round(mySeller.ShowSalary(), 3) + " Рублей"; //здесь получаем ответ
+                    myTextBlock.Text = "Зарплата Продавца: " + Math.Round(mySeller.ShowSalary(), 3) + " Рублей"; 
                     StackSalary.Children.Add(myTextBlock);
                 }
                 catch (Exception ex)
@@ -56,9 +52,8 @@ namespace Positions
                     myOlderSeller.SetProfit(double.Parse(FirstElementText.Text));
                     myOlderSeller.SetBasicSalary(double.Parse(SecondElementText.Text));
 
-                    //создаем новый блок с текстом 
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Зарплата Старшего Продавца: " + Math.Round(myOlderSeller.ShowSalary(), 3) + " Рублей"; //здесь получаем ответ
+                    myTextBlock.Text = "Зарплата Старшего Продавца: " + Math.Round(myOlderSeller.ShowSalary(), 3) + " Рублей"; 
                     StackSalary.Children.Add(myTextBlock);
                 }
                 catch
@@ -76,9 +71,8 @@ namespace Positions
                     myManager.SetProfit(double.Parse(FirstElementText.Text));
                     myManager.SetBasicSalary(double.Parse(SecondElementText.Text));
 
-                    //создаем новый блок с текстом 
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Зарплата Менеджера: " + Math.Round(myManager.ShowSalary(), 3) + " Рублей"; //здесь получаем ответ
+                    myTextBlock.Text = "Зарплата Менеджера: " + Math.Round(myManager.ShowSalary(), 3) + " Рублей"; 
                     StackSalary.Children.Add(myTextBlock);
                 }
                 catch
@@ -95,9 +89,8 @@ namespace Positions
                     myDriver.SetProfit(double.Parse(FirstElementText.Text));
                     myDriver.SetBasicSalary(double.Parse(SecondElementText.Text));
 
-                    //создаем новый блок с текстом 
                     TextBlock myTextBlock = new TextBlock();
-                    myTextBlock.Text = "Зарплата Водителя: " + Math.Round(myDriver.ShowSalary(), 3) + " Рублей" + "\n" + "-------------------------------------"; //здесь получаем ответ
+                    myTextBlock.Text = "Зарплата Водителя: " + Math.Round(myDriver.ShowSalary(), 3) + " Рублей" + "\n" + "-------------------------------------"; 
                     StackSalary.Children.Add(myTextBlock);
                     
                 }

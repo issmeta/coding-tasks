@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\max-2\\Desktop\\task-7-salary-tracker\\Tasks.csproj": {}
+    "C:\\coding-tasks\\task-7-salary-tracker\\Tasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\max-2\\Desktop\\task-7-salary-tracker\\Tasks.csproj": {
+    "C:\\coding-tasks\\task-7-salary-tracker\\Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\max-2\\Desktop\\task-7-salary-tracker\\Tasks.csproj",
+        "projectUniqueName": "C:\\coding-tasks\\task-7-salary-tracker\\Tasks.csproj",
         "projectName": "Tasks",
-        "projectPath": "C:\\Users\\max-2\\Desktop\\task-7-salary-tracker\\Tasks.csproj",
-        "packagesPath": "C:\\Users\\max-2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\max-2\\Desktop\\task-7-salary-tracker\\obj\\",
+        "projectPath": "C:\\coding-tasks\\task-7-salary-tracker\\Tasks.csproj",
+        "packagesPath": "C:\\Users\\79108\\.nuget\\packages\\",
+        "outputPath": "C:\\coding-tasks\\task-7-salary-tracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\max-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79108\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
